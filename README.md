@@ -1,6 +1,6 @@
 LATAM GTM Playbook
 A practical resource for B2B SaaS companies entering or scaling in Latin America.
-Built from experience working across LATAM markets — not from a template.
+Built from experience working across LATAM markets, not from a template.
 
 Why this exists
 Most global GTM playbooks weren't designed for LATAM. They assume buyer behavior, sales cycles, and decision-making structures that simply don't map to the region.
