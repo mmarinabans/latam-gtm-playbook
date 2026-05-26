@@ -22,6 +22,6 @@ Start here
 → Positioning Adaptation Framework
 
 Contributing & feedback
-This is a living document. If you work in LATAM GTM and have patterns worth adding — open an issue or reach out on LinkedIn.
+This is a living document. If you work in LATAM GTM and have patterns worth adding, open an issue or reach out on LinkedIn.
 
-Built by Marina M — Regional Marketing & GTM Strategist, LATAM.
+Built by Marina Marques, Regional Marketing & GTM Strategist, LATAM.
