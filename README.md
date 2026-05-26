@@ -2,7 +2,7 @@
 
 **A practical resource for B2B SaaS companies entering or scaling in Latin America.**
 
-Built from experience working across LATAM markets — not from a template.
+Built from experience working across LATAM markets, not from a template.
 
 ---
 
@@ -45,7 +45,7 @@ This repo documents what actually works: how LATAM enterprise buyers evaluate so
 
 ## Contributing & feedback
 
-This is a living document. If you work in LATAM GTM and have patterns worth adding — open an issue or reach out on [LinkedIn](https://www.linkedin.com/in/marina-marques).
+This is a living document. If you work in LATAM GTM and have patterns worth adding, open an issue or reach out on [LinkedIn](https://www.linkedin.com/in/marina-marques).
 
 ---
 
